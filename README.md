@@ -157,7 +157,7 @@ cb.start_monitoring()
 result = cb.call(my_function)
 ```
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 # Run all tests with verbose output
