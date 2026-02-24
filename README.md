@@ -332,11 +332,11 @@ This implementation combines Circuit Breaker + Retry for maximum resilience.
 
 ## Contributing
 
-This is a portfolio/learning project. Feel free to:
+This is a learning project. Feel free to:
 - Add more comprehensive tests
 - Implement adaptive thresholds (ML-based)
 - Add integration with APM tools (Datadog, New Relic)
-- Create async/await version
+- Create async, wait version
 
 
 ## 🎯 Project Status
